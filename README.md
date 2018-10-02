@@ -4,11 +4,13 @@
 
 ## In this Report
 
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
+In this lab, I messed around with a DC motor, a servo motor, and the Stretch paper puppet. I also created an olympic torch puppet and I promise I adhered to all fire safety best practices!
 
 ## Part A. Actuating DC motors
 
 **Link to a video of your virbation motor**
+
+Vibrating DC motor [video]()
 
 ## Part B. Actuating Servo motors
 
@@ -92,7 +94,16 @@ void loop() {
 
 **a. Make a video of your proto puppet.**
 
+Puppet in action! [video]()
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+For my design, I was inspired by my multi colored craft paper and leftover birthday candles to make the last leg of 
+the olympic torch relay, with a twist. In this futuristic olympic games, the robo-torch lights itself!
+
+![flamestill]()
+
+See video (with sound!) of the robo-torch lighting itself [video]()
  
