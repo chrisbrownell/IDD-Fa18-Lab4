@@ -10,7 +10,7 @@ In this lab, I messed around with a DC motor, a servo motor, and the Stretch pap
 
 **Link to a video of your virbation motor**
 
-Vibrating DC motor [video](https://drive.google.com/file/d/1rRUTg26wd_VJcykua1i6x3dt_S3vMPh3/view?usp=sharing)
+Vibrating DC motor - [video](https://drive.google.com/file/d/1rRUTg26wd_VJcykua1i6x3dt_S3vMPh3/view?usp=sharing)
 
 ## Part B. Actuating Servo motors
 
@@ -94,7 +94,7 @@ void loop() {
 
 **a. Make a video of your proto puppet.**
 
-Puppet in action! [video](https://drive.google.com/file/d/1BZRvtRf7LJuV3bF2x-EIZIHIc1XQE1qz/view?usp=sharing)
+Puppet in action - [video](https://drive.google.com/file/d/1BZRvtRf7LJuV3bF2x-EIZIHIc1XQE1qz/view?usp=sharing)
 
 ## Part E. Make it your own
 
@@ -105,5 +105,5 @@ the olympic torch relay, with a twist. In this futuristic olympic games, the rob
 
 ![flamestill](https://github.com/chrisbrownell/IDD-Fa18-Lab4-ckb77/blob/master/FlameStill.jpeg)
 
-See video (with sound!) of the robo-torch lighting itself [video](https://drive.google.com/file/d/1ZbD9xlILVlWoYkOMjT30xE3IYRv38J6e/view?usp=sharing)
+Recording (with sound!) of the robo-torch lighting itself - [video](https://drive.google.com/file/d/1ZbD9xlILVlWoYkOMjT30xE3IYRv38J6e/view?usp=sharing)
  
