@@ -1,16 +1,16 @@
-# Paper Puppets
+# Lab 4: Paper Puppets go to the Olympics
 
 *A lab report by Chris Brownell*
 
 ## In this Report
 
-In this lab, I messed around with a DC motor, a servo motor, and the Stretch paper puppet. I also created an olympic torch puppet and I promise I adhered to all fire safety best practices!
+In this lab, I messed around with a DC motor, a servo motor, and the Stretch paper puppet. I also created an olympic torch puppet and I promise I adhered to all fire safety best practices.
 
 ## Part A. Actuating DC motors
 
 **Link to a video of your virbation motor**
 
-Vibrating DC motor [video]()
+Vibrating DC motor [video](https://drive.google.com/file/d/1rRUTg26wd_VJcykua1i6x3dt_S3vMPh3/view?usp=sharing)
 
 ## Part B. Actuating Servo motors
 
@@ -67,7 +67,7 @@ void loop() {
 
 I used the FSR and the following code to make the servo respond to how hard I pressed down.
 
-FSR controlling servo motor - [video]()
+FSR controlling servo motor - [video](https://drive.google.com/file/d/17LFZkeqrxeNyRSoNWFs89ochdASApEOz/view?usp=sharing)
 
 ```
 #include <Servo.h>
@@ -94,7 +94,7 @@ void loop() {
 
 **a. Make a video of your proto puppet.**
 
-Puppet in action! [video]()
+Puppet in action! [video](https://drive.google.com/file/d/1BZRvtRf7LJuV3bF2x-EIZIHIc1XQE1qz/view?usp=sharing)
 
 ## Part E. Make it your own
 
@@ -103,7 +103,7 @@ Puppet in action! [video]()
 For my design, I was inspired by my multi colored craft paper and leftover birthday candles to make the last leg of 
 the olympic torch relay, with a twist. In this futuristic olympic games, the robo-torch lights itself!
 
-![flamestill]()
+![flamestill](https://github.com/chrisbrownell/IDD-Fa18-Lab4-ckb77/blob/master/FlameStill.jpeg)
 
-See video (with sound!) of the robo-torch lighting itself [video]()
+See video (with sound!) of the robo-torch lighting itself [video](https://drive.google.com/file/d/1ZbD9xlILVlWoYkOMjT30xE3IYRv38J6e/view?usp=sharing)
  
